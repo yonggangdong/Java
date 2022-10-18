@@ -1,3 +1,5 @@
+package com.java.day1;
+
 /**
  * 这是一个说明
  */

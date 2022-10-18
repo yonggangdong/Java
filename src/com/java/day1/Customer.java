@@ -1,3 +1,5 @@
+package com.java.day1;
+
 public class Customer {
     String name;
     int age;
